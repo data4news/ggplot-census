@@ -1,10 +1,13 @@
 # What's Up With That?
 
-In this assignment you will do some exploratory data analysis using Census data. The goal is to come up with an observation or a question (not a story) by just exploring data.
+In this assignment you will do some exploratory data analysis using Census data. The goal is to come up with an observation or a question (not a story) by just exploring data. It doesn't have to be a story, or even a pitch. Just a well articulated question that makes you go "huh, what's up with that?".
 
 ## Part 1: Study the code (with ChatGPT's help)
 
 Study the code in `tidycensus-example.ipynb` and understand what it does. If you need to talk to ChatGPT as you study the code, please do so. Feel free to tinker with the code (modify the geography, change out the variables, etc). You'll be asked to submit your transcript with ChatGPT as you tried to understand the code and make changes.
+
+What not to do in part 1: 🚫 Just run the code and move on to part 2
+What to do in part 1: ✅ Read the code, try to understand it, talk to ChatGPT about what you don't understand
 
 ## Part 2: Exploratory data analysis
 
@@ -14,6 +17,6 @@ The goal is to explore the data until you come up with a question or an observat
 
 The subheadline will be exactly what the chart is so that anyone looking at the chart without the code or data can decipher what it is about.
 
-Your chart doesn't have to be a map. Here's where I landed. This isn't necessarily a story, just an observation or a question.
+Your chart doesn't have to be a map. It can be histograms, dotplots, scatterplots, anything. If you need more than one chart to ask your question, feel free to do that. Here's where I landed. This isn't necessarily a story, just an observation or a question.
 
 ![Map with headline "There is a part of NYC where there are more housing units than people. What's up with that?" that shows south east corner of central park has some neighborhoods with more housing units than people](image.png)
