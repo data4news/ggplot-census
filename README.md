@@ -6,8 +6,8 @@ In this assignment you will do some exploratory data analysis using Census data.
 
 Study the code in `tidycensus-example.ipynb` and understand what it does. If you need to talk to ChatGPT as you study the code, please do so. Feel free to tinker with the code (modify the geography, change out the variables, etc). You'll be asked to submit your transcript with ChatGPT as you tried to understand the code and make changes.
 
-What not to do in part 1: 🚫 Just run the code and move on to part 2
-What to do in part 1: ✅ Read the code, try to understand it, talk to ChatGPT about what you don't understand
+- What not to do in part 1: 🚫 Just run the code and move on to part 2
+- What to do in part 1: ✅ Read the code, try to understand it, talk to ChatGPT (or ask in slack) about what you don't understand
 
 ## Part 2: Exploratory data analysis
 
