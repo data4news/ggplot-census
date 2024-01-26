@@ -20,3 +20,11 @@ The subheadline will be exactly what the chart is so that anyone looking at the 
 Your chart doesn't have to be a map. It can be histograms, dotplots, scatterplots, anything. If you need more than one chart to ask your question, feel free to do that. Here's where I landed. This isn't necessarily a story, just an observation or a question.
 
 ![Map with headline "There is a part of NYC where there are more housing units than people. What's up with that?" that shows south east corner of central park has some neighborhoods with more housing units than people](image.png)
+
+## Submitting
+
+Your submission will include:
+
+1. a link to your GitHub repo
+2. a link (or links) to your conversation with ChatGPT in part 2
+3. a google doc where you ask the "What's up with that" question (make sure to share it with Dhrumil and Aishi). It can contain the chart alone if you have a good headline and subheadline or a few sentences in addition to the chart or charts to give it some context. 
