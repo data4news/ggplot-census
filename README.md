@@ -1,6 +1,6 @@
 # What's Up With That?
 
-In this assignment you will do some exploratory data analysis using Census data. The goal is to come up with an observation or a question (not a story) by just exploring data.
+In this assignment you will do some exploratory data analysis using Census data. The goal is to come up with an observation or a question (not a story) by just exploring data. It doesn't have to be a story, or even a pitch. Just a well articulated question that makes you go "huh, what's up with that?".
 
 ## Part 1: Study the code (with ChatGPT's help)
 
