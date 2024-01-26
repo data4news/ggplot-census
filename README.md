@@ -21,7 +21,7 @@ Your chart doesn't have to be a map. It can be histograms, dotplots, scatterplot
 
 ![Map with headline "There is a part of NYC where there are more housing units than people. What's up with that?" that shows south east corner of central park has some neighborhoods with more housing units than people](image.png)
 
-## Submitting
+## Submission
 
 Your submission will include:
 
