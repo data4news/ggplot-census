@@ -27,4 +27,5 @@ Your submission will include:
 
 1. a link to your GitHub repo
 2. a link (or links) to your conversation with ChatGPT in part 2
-3. a google doc where you ask the "What's up with that" question (make sure to share it with Dhrumil and Aishi). It can contain the chart alone if you have a good headline and subheadline or a few sentences in addition to the chart or charts to give it some context. 
+3. a google doc where you ask the "What's up with that" question (make sure to share it with Dhrumil and Shivangi). It can contain the chart alone if you have a good headline and subheadline or a few sentences in addition to the chart or charts to give it some context. 
+4. submit via courseworks
