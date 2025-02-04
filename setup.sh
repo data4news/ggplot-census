@@ -8,5 +8,6 @@ sudo apt install -y r-base \
     libjpeg-dev
 
 sudo Rscript setup.R
+pip3 install --upgrade pip
 pip3 install -r requirements.txt
 
